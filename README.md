@@ -1,8 +1,9 @@
 <h1 align="center">
-  <img alt="Happy" src="src/images/Logo.svg" height="100px">
-</h1>
+  <img alt="Happy" src="src/images/Local.svg" height="100px">
+</h1> 
 
  <br>
+ <p align="center">
   <a href="https://www.linkedin.com/in/mjessicasilva/">
       <img alt="LinkedIn link" src="https://img.shields.io/badge/-Jessica Silva-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white" height="25px">
   </a> 
