@@ -16,21 +16,21 @@
 </p>
 
 <p align="center">
-  <a href="#bookmark-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#wrench-tools">Tools</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#bookmark-about">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#wrench-tools">Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">Licença</a>
 </p>
 </strong>
 <br>
 
-##  About
+##  Sobre
 
-**happy** is an application implemented during the **Next Level Week #3** of **[Rocketseat](https://rocketseat.com.br/)** and aims to connect people to the orphanages in their cities.
+**happy** é uma aplicação implementada durante o **Next Level Week #3** da **[Rocketseat](https://rocketseat.com.br/)** e tem como objetivo conectar as pessoas aos orfanatos de suas cidades.
 
 <br>
 
-##  Technologies
+##  Tecnologias
 
 -  **[Typescript](https://www.typescriptlang.org/)**
 -  **[ReactJS](https://reactjs.org/)**
@@ -38,7 +38,7 @@
 
 <br>
 
-##  Tools
+##  Ferramentas
 
 - **[VisualStudio Code](https://code.visualstudio.com/)**
 - **[Insomnia](https://insomnia.rest/)**
@@ -48,6 +48,6 @@ Beekeeper](https://www.beekeeper.io/)**
 
 <br>
 
-##  License
+##  Licença
 
-This project is under the **MIT** license.
+Este projeto está sobre uma licença **MIT**.
